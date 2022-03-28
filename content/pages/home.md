@@ -36,8 +36,8 @@ blocks:
           color: green
           style: float
           name: palette
-        title: 'Als Spender:in/Partner:in'
-        text: Will ich das Projekt finanziell oder organisationell unterstützen.
+        title: 'Als Spender:in / Partner:in'
+        text: Will ich die Plattform finanziell oder anderweitig unterstützen.
     color: tint
     _template: features
 ---
