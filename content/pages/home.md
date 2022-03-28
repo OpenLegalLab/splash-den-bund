@@ -25,7 +25,7 @@ blocks:
           style: float
           name: like
         title: 'Als Bürger:in'
-        text: Ich will eine Anfrage stellen und bei Bedarf Unterstützung bekommen
+        text: Ich möchte eine Anfrage stellen und bei Bedarf Unterstützung bekommen
       - icon:
           color: primary
           style: float
