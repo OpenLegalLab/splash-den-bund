@@ -30,8 +30,8 @@ blocks:
           color: primary
           style: float
           name: code
-        title: 'Als Jurist:in/Coder:in'
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: 'Als Ambassador:in / Coach'
+        text: Ich möchte ein Anliegen supporten oder coachen
       - icon:
           color: green
           style: float
