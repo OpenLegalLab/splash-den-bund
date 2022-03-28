@@ -37,7 +37,9 @@ blocks:
           style: float
           name: palette
         title: 'Als Sponsor:in / Partner:in'
-        text: Will ich die Plattform finanziell oder anderweitig unterstützen.
+        text: >-
+          Ich möchte die Plattform finanziell oder anderweitig unterstützen oder
+          bin an einer Kooperation interessiert.
     color: tint
     _template: features
 ---
