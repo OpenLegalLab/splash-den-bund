@@ -25,9 +25,7 @@ blocks:
           style: float
           name: like
         title: 'Als Bürger:in'
-        text: >-
-          Will ich Informationsfreiheitsgesuche stellen und Unterstützung
-          bekommen.
+        text: Ich will ein Auskunftsgesuch stellen und ggf. Unterstützung bekommen
       - icon:
           color: primary
           style: float
