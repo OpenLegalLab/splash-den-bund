@@ -1,14 +1,10 @@
 ---
 blocks:
-  - headline: Dokumente für mehr Demokratie
-    text: >+
+  - headline: '#FragDenBund'
+    text: >
       Bürger:innen haben ein Recht auf Information aus Politik und Verwaltung.
       Mit #fragdenbund.ch wollen wir die Bürger:innen dabei unterstützen, ihre
       Informations- und Auskunftsrechte gegenüber Behörden wahrzunehmen.
-
-
-
-
     actions:
       - label: Latest updates
         type: button
