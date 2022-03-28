@@ -1,8 +1,10 @@
-# Tina Starter 🦙
+# Frag den Bund - Splash page
 
-![tina-cloud-starter-demo](https://user-images.githubusercontent.com/103008/130587027-995ccc45-a852-4f90-b658-13e8e0517339.gif)
+🦙 A launch page powered by [TinaCMS](https://app.tina.io) for the hackathon project at Open Legal Lab.
 
-This Next.js starter is powered by [TinaCMS](https://app.tina.io) for you and your team to visually live edit the structured content of your website. ✨  
+For details visit https://challenges.openlegallab.ch/project/2
+
+# Developer info
 
 The content is managed through Markdown and JSON files stored in your GitHub repository, and queried through Tina GraphQL API.
 
@@ -35,14 +37,14 @@ yarn dev
 
 ### Local URLs
 
-- http://localhost:3000 : browse the website 
+- http://localhost:3000 : browse the website
 - http://localhost:3000/admin : connect to Tina Cloud and go in edit mode
 - http://localhost:3000/exit-admin : log out of Tina Cloud
 - http://localhost:4001/altair/ : GraphQL playground to test queries and browse the API documentation
 
 ### Using Tina Cloud Locally
 
-Replace the `.env.local.example`, with `.env.local` and add in the details from Cloudinary and Tina. 
+Replace the `.env.local.example`, with `.env.local` and add in the details from Cloudinary and Tina.
 
 ```
 NEXT_PUBLIC_TINA_CLIENT_ID=<get this from the project you create at app.tina.io>
@@ -51,7 +53,7 @@ NEXT_PUBLIC_TINA_CLIENT_ID=<get this from the project you create at app.tina.io>
 NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=<Get this from your Cloudinary account>
 NEXT_PUBLIC_CLOUDINARY_API_KEY=<Get this from your Cloudinary account>
 CLOUDINARY_API_SECRET=<Get this from your Cloudinary account>
-NEXT_PUBLIC_HIDE_EDIT_BUTTON=0 
+NEXT_PUBLIC_HIDE_EDIT_BUTTON=0
 ```
 
 ## Getting Help

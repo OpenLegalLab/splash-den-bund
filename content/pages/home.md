@@ -14,7 +14,7 @@ blocks:
         link: /about
     image:
       src: >-
-        https://okfn.de/okf/themen/foia.jpg
+        fragdenbund.png
       alt: OKFN
     color: default
     _template: hero
