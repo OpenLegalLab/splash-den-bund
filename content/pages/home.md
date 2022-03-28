@@ -1,50 +1,44 @@
 ---
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Dokumente für mehr Demokratie
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      content/pages/home.md, components from components/blocks, and puts them
-      all together in pages/\[filename].tsx, all based on a schema defined in
-      .tina/schema.ts.
+      Mit #fragdenbund.ch wollen wir allen Bürger:innen ermöglichen, von Politik und Verwaltung auf einfache Art Informationen, Dokumente und Datensätze zu bekommen. Damit wollen wir den Staat transparenter machen, die Meinungsbildung von Bürger:innen erleichtern und Verwaltungen zu besserem Umgang mit Einsichtsgesuchen verführen.
     actions:
-      - label: Get Started
+      - label: Latest updates
         type: button
         icon: true
         link: /posts
-      - label: Read Blog
+      - label: Contribute
         type: link
         icon: false
-        link: /posts
+        link: /about
     image:
       src: >-
-        https://res.cloudinary.com/forestry-demo/image/upload/v1628102029/tina-cloud-starter/tina-illustration.WebP
-      alt: Tina
+        https://okfn.de/okf/themen/foia.jpg
+      alt: OKFN
     color: default
     _template: hero
   - items:
       - icon:
           color: red
           style: float
-          name: code
-        title: Amazing Feature
+          name: like
+        title: Als Bürger:in
         text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+          Will ich Informationsfreiheitsgesuche stellen und Unterstützung bekommen.
       - icon:
           color: primary
           style: float
-          name: like
-        title: This Is a Feature
+          name: code
+        title: Als Jurist:in/Coder:in
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
           color: green
           style: float
           name: palette
-        title: Configurable Theme
+        title: Als Spender:in/Partner:in
         text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+          Will ich das Projekt finanziell oder organisationell unterstützen.
     color: tint
     _template: features
 ---

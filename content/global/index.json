@@ -9,7 +9,7 @@
     "nav": [
       {
         "href": "",
-        "label": "Home"
+        "label": "#fragdenbund.ch"
       },
       {
         "href": "about",
@@ -17,16 +17,15 @@
       },
       {
         "href": "posts",
-        "label": "Blog"
+        "label": "News"
       }
     ]
   },
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
-      "twitter": "/",
-      "instagram": "/"
+      "OpenLegalLab": "https://challenges.openlegallab.ch/project/2",
+      "#fragdenbund": "https://twitter.com/search?q=%23fragdenbund&src=typed_query&f=live"
     }
   },
   "theme": {
