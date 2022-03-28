@@ -9,7 +9,7 @@ blocks:
       - label: Latest updates
         type: button
         icon: true
-        link: /posts
+        link: https://challenges.openlegallab.ch/project/2/log#log
       - label: Contribute
         type: link
         icon: false
@@ -43,4 +43,3 @@ blocks:
     color: tint
     _template: features
 ---
-
